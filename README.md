@@ -1,0 +1,1 @@
+# mangose-custom-view
