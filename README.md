@@ -68,7 +68,9 @@ window.mounted = () => {
 ## JS API
 ```js
 mangose.isDarkMode // return true or false
-mangose.user // user info
+mangose.user //user info
+mangose.tasks //tasks list
+mangose.props //props list
 mangose.addTask: (taskName, sectionId)
 mangose.addProp: (propName, propType)
 mangose.openTask: (taskId)
