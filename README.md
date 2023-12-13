@@ -2,11 +2,11 @@
   <img src="https://cdn.mangose.app/assets/mangose.png" width="200" alt="Mangose Logo" />
 </p>
 
-# Mangose Custom View Tutorial
-You can create your own views and share them with other users.
+# Mangose Custom Entity Tutorial
+You can create your own entity and share them with other users.
 
 ## Requirements:
-- You need to upload your custom view to github as a public repo
+- You need to upload your custom Entity to github as a public repo
 - Use our tag system to keep it looking similar to mangose
 - Have fun.
 
@@ -18,7 +18,7 @@ You can create your own views and share them with other users.
 ## Example manifest.json
 ```json
 {
-  "name": "custom-view-name",
+  "name": "custom-entity-name",
   "version": "1.0",
   "author": "Your name",
   "manifest_version": 1,
